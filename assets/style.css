@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;;
+}
+
+header{
+    width: 100%;
+    height: auto;
+    font-size: 2rem;
+    color: #FFFFFF;
+    background-color: #0078AA;
+    padding: 10px;
+    
+}
+footer{
+    width: 100%;
+    height: 7rem;
+    font-size: 1rem;
+    color: #000000;
+    background-color: #3AB4F2;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+header h1{
+    text-decoration: none;
+    padding: 1rem 0 1rem 25rem;
+    font-size: 1.75rem;
+    color: #FFFFFF;
+    display: inline;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    font-size: 1rem;
+    color: #FFFFFF;
+    display: inline;
+    box-sizing: border-box;
+    padding-left: 2rem;
+}
+
+h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    text-align: center;
+    padding: 2rem;
+}
+
+section img{
+    width: 49.5625rem;
+    border-radius: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#topo{
+    padding-top: 1.5rem;
+}
+
+.esp{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 69.8125rem;
+    text-align: justify;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
